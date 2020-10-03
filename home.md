@@ -1,23 +1,23 @@
 # About
-Rynvei Technologies™ is an organization that develops software and hardware.
+Rinvey Technologies™ is an organization that develops software and hardware.
 All of the products have a retro-futuristic focus, taking old ideas that have
 been lost (like not always having to be connected to the internet, and not
 eating large amounts of RAM) and combining them with the newest technology
-(like RISC-V and Rust).  Rynvei Technologies™ also uses ZLib / Apache-2.0 dual
+(like RISC-V and Rust).  Rinvey Technologies™ also uses ZLib / Apache-2.0 dual
 licensing for all open source projects, making it easy to fork and customize.
-And, Rynvei uses dark theme default for everything!
+And, Rinvey uses dark theme default for everything!
 
 # Projects
 ## Software
 All software that is not a Plop Grizzly™ video game, will be open-source.
 Video games once bought, may additionally come with the source.
 
- - Rynvei OS™ - A Free, Open Source Operating System For Phones and PCs
-   - Rynvei Kernel - Simplest Possible Kernel (Bare mimimum to run the Rynvei
+ - Rinvey OS™ - A Free, Open Source Operating System For Phones and PCs
+   - Rinvey Kernel - Simplest Possible Kernel (Bare mimimum to run the Rinvey
      desktop environment, and implement containerization).
-   - Rynvei - The Desktop Environment / Application Launcher For Rynvei OS
-     - Rynvei Server™ File Backup Services
-     - Rynvei Server™ External Display
+   - Rinvey - The Desktop Environment / Application Launcher For Rinvey OS
+     - Rinvey Server™ File Backup Services
+     - Rinvey Server™ External Display
      - USB, HDMI External Displays
      - Net Share: File Sharing (Like AirDrop + Nintendo DS Download Play)
      - Market: Program Market
@@ -31,9 +31,9 @@ Video games once bought, may additionally come with the source.
      - ScoreFall Studio - Music Composition Software
      - ScoreFall Synth - Audio/Instrument Synthesis Software
        - Can make soundfonts
-       - Uses Twang (By Rynvei Technologies™)
+       - Uses Twang (By Rinvey Technologies™)
      - ScoreFall Performer - Tuner, Metronome, Score Viewer, Digital Audio Workstation
-   - Rynvei Graphics And Video Applications
+   - Rinvey Graphics And Video Applications
      - TBD - 2D and 3D Vector Graphics Editor and Animator (CAD Software)
        - Fonts
        - Electronic Circuits
@@ -100,7 +100,7 @@ Video games once bought, may additionally come with the source.
 ## Hardware
 You will be able to buy individually or pre-assembled.
 
- - Rynvei Board™ - RISC-V Embedded Chip For Electronics Projects (intended to be
+ - Rinvey Board™ - RISC-V Embedded Chip For Electronics Projects (intended to be
    a RISC-V competitor to the Raspberry Pi Models)
    - 32-bit Quad-Core CPU with 4GB (max address space) RAM
      - Multiplication Extension
@@ -111,16 +111,16 @@ You will be able to buy individually or pre-assembled.
    - USB C Power Port with USB C Charger
    - USB C Rechargeable Battery that can also use the USB C Charger
    - 64 GB (Normal) SD Card Storage
- - Rynvei Phone™ - RISC-V Cell Phone / Handheld Video Game System Running
-   Rynvei OS
-   - Contains the Rynvei Board™ CPU, Battery and Charger
+ - Rinvey Phone™ - RISC-V Cell Phone / Handheld Video Game System Running
+   Rinvey OS
+   - Contains the Rinvey Board™ CPU, Battery and Charger
    - Mobile Broadband Internet (VoIP for calls)
    - Wifi/Bluetooth
    - 1 TB (Normal) SD Card Storage
    - Phone Case
    - AUX Port
    - Stereo Speakers (Landscape) - Not Tinny!
- - Rynvei Laptop™ - RISC-V Laptop Running Rynvei OS
+ - Rinvey Laptop™ - RISC-V Laptop Running Rinvey OS
    - Laptop shell, where you dock your phone as the trackpad (acts as CPU)
    - Also works as remote external monitor for phone without needing to dock
    - Large Touchscreen with Stylus (Doubles as drawing tablet)
@@ -129,11 +129,11 @@ You will be able to buy individually or pre-assembled.
    - 4 USB C Ports (One can be used for charging)
    - SD Card Slot
    - AUX Port
-   - Rynvei Keyboard™ - Minimal Keyboard
- - Rynvei Server™ - RISC-V System Connected To a TV Displaying As External
-   Monitor For Rynvei Laptop™ and Rynvei Phone™.  Can run your own video
+   - Rinvey Keyboard™ - Minimal Keyboard
+ - Rinvey Server™ - RISC-V System Connected To a TV Displaying As External
+   Monitor For Rinvey Laptop™ and Rinvey Phone™.  Can run your own video
    game servers, or do scientific calculations, as well as backing up data.
-   - Contains the Rynvei Board™ CPU, Battery and Charger
+   - Contains the Rinvey Board™ CPU, Battery and Charger
    - 16 TB Solid State Storage
    - HDMI Port
    - Wifi/Bluetooth
@@ -144,4 +144,4 @@ If you want to contribute to this organization, it's really easy!  Make a PR or
 issue on a GitHub project or send an email to aldaronlau@gmail.com if you have
 an interest and experience in RISC-V hardware.  I don't expect some of these
 projects to be ready for a very long time, and eventually, once it can be
-monetarily sustained, Rynvei Technologies™ will become a non-profit.
+monetarily sustained, Rinvey Technologies™ will become a non-profit.
